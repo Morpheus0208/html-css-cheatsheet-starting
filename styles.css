@@ -1,0 +1,37 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+body {
+  background-color: gainsboro;
+  display: block;
+  margin: 8px;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2 em;
+}
+h2 {
+  text-align: center;
+  color: rebeccapurple;
+  font-size: 1.5 em;
+}
+table {
+  display: table;
+  text-align: left;
+  border: 2px solid darkorchid;
+  width: 650px;
+  margin: 0 auto;
+}
+td {
+  border-spacing: 2px;
+  border-top: 1px solid darkorchid;
+}
+thead {
+  text-align: center;
+  background-color: plum;
+}
+#tag {
+  font-family: "Lucida Console", Courier, monospace;
+  background-color: beige;
+}
